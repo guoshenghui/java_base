@@ -6,11 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 
  * 单线程可以重复进入，但必须重复退出
  * @ClassName: ReentrantLock1
- * 
- * @Description: TODO
- * 
- * @author: admin
- * 
+ *
  * @date: 2018年3月12日 上午11:01:46
  */
 public class ReentrantLock1 implements Runnable {
