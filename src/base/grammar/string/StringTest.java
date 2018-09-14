@@ -1,4 +1,4 @@
-package base.string;
+package base.grammar.string;
 
 import java.io.File;
 import java.io.FileOutputStream;

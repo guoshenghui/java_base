@@ -1,4 +1,4 @@
-package base.string;
+package base.grammar.string;
 
 import java.util.Formatter;
 

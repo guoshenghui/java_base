@@ -1,4 +1,4 @@
-package base.tryreturn;
+package base.grammar.tryreturn;
 
 public class Test {
 	public static void main(String[] args) {
