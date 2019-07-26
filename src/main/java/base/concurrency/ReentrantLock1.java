@@ -22,7 +22,7 @@ public class ReentrantLock1 implements Runnable {
 				a++;
 			} finally {
 				lock.unlock();
-				// lock.unlock();
+				lock.unlock();
 			}
 		}
 	}
